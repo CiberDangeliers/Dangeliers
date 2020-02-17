@@ -33,3 +33,6 @@ Los empleados tiene como variables:
 	*int ID
 	*String Contraseña
 	*double Sueldo
+El programa empezará con 3 empleados
+En la version 2.0 un empleado se transformara en jefe.
+	el jefe podra despedir y ccontratar a empleados.
