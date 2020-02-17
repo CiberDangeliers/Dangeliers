@@ -1,0 +1,35 @@
+CiverDangeliers
+
+Inicio de programa
+
+1. Los empleados deben iniciar sesion (id y contraseña)
+
+2. Aparece un menú
+	2.1 Dar de alta nuevo usuario
+	2.2 Dar de baja usuario 
+	2.3 Añadir horas a un usuario
+
+Los clientes tiene como variables:
+	*String Nombre
+	*String Apellido1
+	*String Apellido2
+	*String DNI
+	*int Teléfono (opcional)
+	*String email
+	*String Nickname
+	*String Contraseña
+	*Double Horas_restantes
+	*Double Horas_totales
+	*Enum Division
+Al principio del programa habra 10 clientes creados
+
+Los empleados tiene como variables:
+	*String Nombre
+	*String Apellido1
+	*String Apellido2
+	*String DNI
+	*int Teléfono
+	*String email
+	*int ID
+	*String Contraseña
+	*double Sueldo
